@@ -1,0 +1,22 @@
+{
+  "name": "white-red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandiniproothi/white-red.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandiniproothi/white-red/issues"
+  },
+  "homepage": "https://github.com/nandiniproothi/white-red#readme",
+  "dependencies": {
+    "firebase": "^8.4.3"
+  }
+}
