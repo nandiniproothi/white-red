@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nandiniproothi/white-red#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "firebase": "^8.4.3"
   }
 }
